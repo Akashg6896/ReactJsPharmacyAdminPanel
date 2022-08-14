@@ -84,7 +84,7 @@ function App() {
           }
         />
         <Route
-          path='*'
+          path='/ReactJsPharmacyAdminPanel'
           element={
             !isLoggedIn ? <Login userHandler={userHandler} /> : <Orders />
           }
