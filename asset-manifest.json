@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactJsPharmacyAdminPanel/static/css/main.407a4195.css",
-    "main.js": "/ReactJsPharmacyAdminPanel/static/js/main.6331535e.js",
+    "main.js": "/ReactJsPharmacyAdminPanel/static/js/main.f68c163e.js",
     "static/js/787.48769609.chunk.js": "/ReactJsPharmacyAdminPanel/static/js/787.48769609.chunk.js",
     "index.html": "/ReactJsPharmacyAdminPanel/index.html",
     "main.407a4195.css.map": "/ReactJsPharmacyAdminPanel/static/css/main.407a4195.css.map",
-    "main.6331535e.js.map": "/ReactJsPharmacyAdminPanel/static/js/main.6331535e.js.map",
+    "main.f68c163e.js.map": "/ReactJsPharmacyAdminPanel/static/js/main.f68c163e.js.map",
     "787.48769609.chunk.js.map": "/ReactJsPharmacyAdminPanel/static/js/787.48769609.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.407a4195.css",
-    "static/js/main.6331535e.js"
+    "static/js/main.f68c163e.js"
   ]
 }
