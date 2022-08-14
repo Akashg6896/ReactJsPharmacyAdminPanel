@@ -83,6 +83,12 @@ function App() {
             !isLoggedIn ? <Login userHandler={userHandler} /> : <Orders />
           }
         />
+        <Route
+          path='*'
+          element={
+            !isLoggedIn ? <Login userHandler={userHandler} /> : <Orders />
+          }
+        />
       </Routes>
     </div>
   )
