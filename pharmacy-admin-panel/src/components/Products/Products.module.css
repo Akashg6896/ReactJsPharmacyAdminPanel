@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.products a {
+  /* margin-left: 50px; */
+  color: rgb(37, 200, 37);
+  font-weight: 400;
+  text-decoration: underline;
+  text-underline-offset: 20px;
+  text-decoration-thickness: 5px;
+  cursor: pointer;
+}
+main {
+  padding-top: 50px;
+  padding-left: 100px;
+  margin-top: 50px;
+}
+
+h1 {
+  padding-bottom: 30px;
+}
+#categories {
+  display: flex;
+}
+/* table {
+  padding-left: 150px;
+} */
+table,
+th,
+td {
+  margin-left: 110px;
+  /* border: 2px solid rgb(81, 72, 72);
+  border-collapse: collapse; */
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+td {
+  margin-left: 30px;
+}
+#categories table h3,
+#categories table th
+/* #categories table td  */ {
+  padding-right: 100px;
+  /* padding-bottom: 30px; */
+  padding-left: 10px;
+}
+a {
+  padding-left: 10px;
+  text-decoration: none;
+  color: #787474;
+  font-weight: 400;
+  font-size: 18px;
+}
+#count {
+  padding-bottom: 20px;
+}
+input {
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+label {
+  font-size: 16px;
+  padding-bottom: 20px;
+}
+#log-out {
+  margin-left: 950px;
+  cursor: pointer;
+  color: #787474;
+}
+#filter {
+  position: absolute;
+  top: 200px;
+}
+.cell-row {
+  background-color: #ffff;
+  padding: 40px;
+}
+.cell {
+  padding: 20px;
+}

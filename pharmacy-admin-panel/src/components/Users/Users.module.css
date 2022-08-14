@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#logo img {
+  width: initial;
+  height: 100%;
+  padding-left: 30px;
+}
+img {
+  /* text-align: center; */
+  padding: 0px;
+}
+.users a {
+  color: rgb(37, 200, 37);
+  font-weight: 400;
+  text-decoration: underline;
+  text-underline-offset: 20px;
+  text-decoration-thickness: 5px;
+  cursor: pointer;
+}
+a {
+  cursor: pointer;
+}
+h1 {
+  padding-bottom: 30px;
+}
+main {
+  padding-top: 50px;
+  padding-left: 100px;
+}
+a {
+  padding-left: 10px;
+  text-decoration: none;
+  color: #787474;
+  font-weight: 400;
+  font-size: 18px;
+}
+h1 {
+  padding-bottom: 30px;
+}
+#categories {
+  display: flex;
+}
+/* table {
+  padding-left: 200px;
+} */
+.table,
+th,
+td {
+  margin-left: 0px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+td {
+  margin-left: 30px;
+}
+img {
+  /* text-align: center; */
+  padding: 0px;
+}
+#name {
+  padding-right: 20px;
+}
+#dob {
+  padding-right: 10px;
+}
+#UserCategories table h3,
+#UserCategories table th {
+  padding-right: 70px;
+  /* padding-bottom: 10px; */
+  padding-left: 10px;
+}
+#searchContainer {
+  display: flex;
+  /* justify-content: space-around; */
+  padding-bottom: 20px;
+}
+#search {
+  font-size: 20px;
+  padding-bottom: 10px;
+  padding-right: 400px;
+  padding-left: 30px;
+  padding-top: 10px;
+  margin-right: 20px;
+}
+label {
+  font-size: 16px;
+  padding-bottom: 20px;
+}
+#search,
+#search:hover,
+#search:active,
+#search:focus,
+#search:focus-visible {
+  text-decoration: none;
+  border: 0;
+  border-bottom: 2px solid rgb(169, 160, 160);
+  font-family: inherit;
+  outline: none;
+}
+button {
+  background-color: rgb(32, 182, 130);
+  border: 0px;
+  padding: 10px 35px 8px 35px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 2px 2px 2px 2px rgb(32 182 130);
+  /* background-color: #f1f1f1; */
+  color: #ffff;
+  border-radius: 20px;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+}
+#log-out {
+  margin-left: 950px;
+  cursor: pointer;
+  color: #787474;
+}
+.cellRow {
+  background-color: #ffff;
+  padding: 40px;
+}
+.cell {
+  padding-right: 100px;
+}
+.id {
+  padding: 20px;
+}
